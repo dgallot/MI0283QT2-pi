@@ -660,7 +660,7 @@ uint16_t MI0283QT2::drawChar(uint16_t x, uint16_t y, char c, uint8_t size, uint1
 }
 
 
-uint16_t MI0283QT2::drawText(uint16_t x, uint16_t y, char *s, uint8_t size, uint16_t color, uint16_t bg_color)
+uint16_t MI0283QT2::drawText(uint16_t x, uint16_t y, const char *s, uint8_t size, uint16_t color, uint16_t bg_color)
 {
   while(*s != 0)
   {
@@ -726,11 +726,11 @@ uint16_t MI0283QT2::drawText(uint16_t x, uint16_t y, const std::string &s, uint8
 }
 
 
-uint16_t MI0283QT2::drawMLText(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1, char *s, uint8_t size, uint16_t color, uint16_t bg_color)
+uint16_t MI0283QT2::drawMLText(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1, const char *s, uint8_t size, uint16_t color, uint16_t bg_color)
 {
   uint16_t x=x0, y=y0, wlen, llen;
   char c;
-  char *wstart;
+  const char *wstart;
 
   fillRect(x0, y0, x1, y1, bg_color);
 

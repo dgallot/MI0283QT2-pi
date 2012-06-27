@@ -6,7 +6,7 @@ typedef struct
   uint16_t rsrvd1;
   uint16_t rsrvd2;
   uint32_t offset;
-} BMP_Header;
+}  __attribute__ ((packed)) BMP_Header;
 
 
 typedef struct
@@ -22,4 +22,4 @@ typedef struct
   uint32_t vres;
   uint32_t colors;
   uint32_t impcolors;
-} BMP_DIPHeader;
+}  __attribute__ ((packed)) BMP_DIPHeader;
