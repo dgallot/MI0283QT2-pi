@@ -5,7 +5,7 @@ Adapter Board with 2.8" TFT-Display and Touch-Panel for Raspberry pi.
 
 <http://www.watterott.com/en/MI0283QT-2-Adapter>
 
-![MI0283QT-Adapter](https://github.com/watterott/MI0283QT-Adapter/raw/master/img/mi0283qt-adapter.jpg)
+![MI0283QT-Adapter](http://www.gallot.be/wp-content/uploads/2012/07/2012-07-05-19.48.23.jpg)
 
 ## Original library
 [watterott / MI0283QT-Adapter](https://github.com/watterott/MI0283QT-Adapter/blob/master/README.md)
@@ -24,6 +24,8 @@ Adapter Board with 2.8" TFT-Display and Touch-Panel for Raspberry pi.
 No idea of the original source. My changes are public domain !
 
 ## Software for Raspberry pi
-[Kernel](http://www.bootc.net/projects/raspberry-pi-kernel/)
-[Library + Examples](https://github.com/dgallot/MI0283QT2-pi)
+ * [Kernel](http://www.bootc.net/projects/raspberry-pi-kernel/)
+ * [Library + Examples](https://github.com/dgallot/MI0283QT2-pi)
 
+## Demo
+  
