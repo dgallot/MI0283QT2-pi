@@ -29,8 +29,7 @@ No idea of the original source. My changes are public domain !
 
 ## Demo
  
-`<iframe src="https://docs.google.com/a/dgconsulting.be/file/d/0B__s2SCdP1IFZ2g5aFJxdVdZcHc/preview" width="640" height="385"></iframe>`
-
-`<iframe src="https://docs.google.com/a/dgconsulting.be/file/d/0B__s2SCdP1IFa1dTa2hnX0VReHc/preview" width="640" height="385"></iframe>`
+ * [demo1](https://docs.google.com/open?id=0B__s2SCdP1IFZ2g5aFJxdVdZcHc)
+ * [gameoflife](ihttps://docs.google.com/open?id=0B__s2SCdP1IFa1dTa2hnX0VReHc)
 
  
