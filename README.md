@@ -1,8 +1,7 @@
 MI0283QT2-pi
 ============
 
-# MI0283QT-Adapter
-Adapter Board with 2.8" TFT-Display und Touch-Panel.
+Adapter Board with 2.8" TFT-Display and Touch-Panel for Raspberry pi.
 
 <http://www.watterott.com/en/MI0283QT-2-Adapter>
 
