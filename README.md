@@ -29,7 +29,7 @@ No idea of the original source. My changes are public domain !
 
 ## Demo
  
- * [demo1](https://docs.google.com/open?id=0B__s2SCdP1IFZ2g5aFJxdVdZcHc)
- * [gameoflife](ihttps://docs.google.com/open?id=0B__s2SCdP1IFa1dTa2hnX0VReHc)
+ * [demo1](http://youtu.be/kO5lM3OpqAw)
+ * [gameoflife](http://youtu.be/aiTfmdaDBYk)
 
  
